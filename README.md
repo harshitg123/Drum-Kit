@@ -1,2 +1,2 @@
 # Drum-Kit
-Produce a Sound whenever Click or particular Key pressed on Button
+Produce a Sound whenever Clicked or particular Key pressed
